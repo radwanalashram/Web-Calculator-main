@@ -1,4 +1,4 @@
-<h3 align="center">A simple web-based calculator, built with Vanilla JS by Eng Alashram for Eng Alrsas<br>
+<h3 align="center">موقع بسيط للاله الحاسبه بواسطه جافا سكريبت عمل المهندس الاشرم اهدأ للمهندس الرصاص<br>
     <a href="https://a-partovii.github.io/Web-Calculator/src/web-calculator.html">
         👉Check Online👈
     </a>
